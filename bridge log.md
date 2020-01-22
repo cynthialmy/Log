@@ -69,4 +69,3 @@ PSC Beams – 11/19/19 (Tuesday)
 Matel decking form
 Job number is: 100054899 / 05.STR
 ------------------------------------------------------------------------------
-I am out of the office November 29 to December 16 with no access to email. I will be returning on December 17th.
