@@ -109,3 +109,7 @@ Matel decking form
 Job number is: 100054899 / 05.STR
 
 ------------------------------------------------------------------------------
+M-0054 SR 8 Dacula Road Submittal - MSE Walls 
+------------------------------------------------------------------------------
+Put the attached file in the proper location here:  G:\Struct\100044841 (Gwinnett Co Dacula Road over CSX RR)\Construction
+Job / Task:  100067528 01.02.L
