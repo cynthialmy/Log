@@ -113,3 +113,11 @@ M-0054 SR 8 Dacula Road Submittal - MSE Walls
 ------------------------------------------------------------------------------
 Put the attached file in the proper location here:  G:\Struct\100044841 (Gwinnett Co Dacula Road over CSX RR)\Construction
 Job / Task:  100067528 01.02.L
+
+------------------------------------------------------------------------------
+SR 316 at Hi Hope Walls
+------------------------------------------------------------------------------
+Job / Task:  100066430 / 45.Prelim.Br.L
+Project Directory:  H:\GDOT\0013893 SR 316 at Hi Hope\STRUCT
+CAD is in the Walls subdirectory.
+
