@@ -121,5 +121,6 @@ Job / Task:  100066430 / 45.Prelim.Br.L
 Project Directory:  H:\GDOT\0013893 SR 316 at Hi Hope\STRUCT
 CAD is in the Walls subdirectory.
 State Route 316, also known as University Parkway, or Georgia 316, is a 38.9-mile-long state highway that exists in the northern part of the U.S. state of Georgia. It links the Atlanta metropolitan area with Athens, home of the University of Georgia.
-[GDOT SR316](http://www.dot.ga.gov/BS/Projects/SpecialProjects/SR316 "SpecialProjects/SR316")
+
+[GDOT/SpecialProjects/SR316](http://www.dot.ga.gov/BS/Projects/SpecialProjects/SR316)
 
