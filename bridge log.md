@@ -123,4 +123,24 @@ CAD is in the Walls subdirectory.
 State Route 316, also known as University Parkway, or Georgia 316, is a 38.9-mile-long state highway that exists in the northern part of the U.S. state of Georgia. It links the Atlanta metropolitan area with Athens, home of the University of Georgia.
 
 [GDOT/SpecialProjects/SR316](http://www.dot.ga.gov/BS/Projects/SpecialProjects/SR316)
+------------------------------------------------------------------------------
+2/20/2020 notes: sheets set up for wall 1,2,3,4,5,6,7 for constructability review
+- wall 7 is tie back wall instead of MSE, need to 1. modify label/notes 2. add section detail
+- profiles are subject to change. Need to verify/modify elevations in the future
 
+------------------------------------------------------------------------------
+0008598 CR 287 over Whitewater Creek
+------------------------------------------------------------------------------
+The Final design folder for 0008598 (CR 287 over Whitewater Creek) is here:
+H:\GDOT\MPOPD1701071(Volkert BB 2_5)\0008598\STRUCT\Final\
+Diego will be doing the Superstructure Design (Geometry, Deck, Beams, Bearings, etc.).
+Cynthia will be doing the Substructure Design.
+Cynthia let me know if you are available to get started sometime next week. Diego will be starting the superstructure today.
+I will send out the charge number once it is set up. Until then charge to the Pending Billable number (z10000150). The PM is Chris King.
+The Project Task Report may not show up in your dashboard until tomorrow.  In meantime, below are the project and task numbers for your use.
+TO20 – CR 287 Ebenezer Church Road over Whitewater Creek-  Final Design
+100069629
+20.03.L
+TO13 – SR 109 over Gola Creek – Final Design
+100069630
+13.03.L
