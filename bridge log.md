@@ -135,9 +135,7 @@ The Final design folder for 0008598 (CR 287 over Whitewater Creek) is here:
 H:\GDOT\MPOPD1701071(Volkert BB 2_5)\0008598\STRUCT\Final\
 Diego will be doing the Superstructure Design (Geometry, Deck, Beams, Bearings, etc.).
 Cynthia will be doing the Substructure Design.
-Cynthia let me know if you are available to get started sometime next week. Diego will be starting the superstructure today.
-I will send out the charge number once it is set up. Until then charge to the Pending Billable number (z10000150). The PM is Chris King.
-The Project Task Report may not show up in your dashboard until tomorrow.  In meantime, below are the project and task numbers for your use.
+Pending Billable number (z10000150)
 TO20 – CR 287 Ebenezer Church Road over Whitewater Creek-  Final Design
 100069629
 20.03.L
