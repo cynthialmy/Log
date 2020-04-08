@@ -16,3 +16,7 @@ Also need to check pile capacity for strength load cases. Service load cases are
 - elevations under bridge
 - wall length with curve
 - offset, station, radius -> length
+
+
+https://www.engineersrising.com/blog/top-ten-career-options-for-engineers
+
