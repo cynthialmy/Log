@@ -132,20 +132,20 @@ State Route 316, also known as University Parkway, or Georgia 316, is a 38.9-mil
 0008598 CR 287 over Whitewater Creek Substructure
 ------------------------------------------------------------------------------
 RCPIER
-•	A three spans: 150’-75’-75’model was developed to design intermediate bents at bent 2 and bent 3. Intermediate bents are 2-column bents with 5 piles per footing under each column.
-•	Base design for all elements for Strength Group I, III and V & Service Group I.
+• A three spans: 150’-75’-75’model was developed to design intermediate bents at bent 2 and bent 3. Intermediate bents are 2-column bents with 5 piles per footing under each column.
+• Base design for all elements for Strength Group I, III and V & Service Group I.
 Bent Caps
-•	Actual Cap Width = 40’ 
-•	Bent 2 Cap Size = 48” x 54”; Bent 3 C Cap Size = 48” x 48”
-•	In the model the cap width was set to be 43.25’ (out-out deck width) for a valid geometry input. Upward forces were applied on two ends in DC1 to balance out the additional weight.
-•	Additional distributed force and moment were applied for the cap step on Bent 2, which supports the different beam size in span 1 & 2.
-•	Bent 2 main bars are controlled by bottom flexural. Two layers of #11bars were used at the bottom, with eight bars on the first layer and two bars as the second layer, to meet 5” spacing limit. Eight #11 bars were used as top main bars.
-•	The cap size is controlled by shear & torsion. 4-legs of #6 Stirrups were used to meet the 5” stirrup spacing limit, GDOT 4.4.1.2.4.
+• Actual Cap Width = 40’ 
+• Bent 2 Cap Size = 48” x 54”; Bent 3 C Cap Size = 48” x 48”
+• In the model the cap width was set to be 43.25’ (out-out deck width) for a valid geometry input. Upward forces were applied on two ends in DC1 to balance out the additional weight.
+• Additional distributed force and moment were applied for the cap step on Bent 2, which supports the different beam size in span 1 & 2.
+• Bent 2 main bars are controlled by bottom flexural. Two layers of #11bars were used at the bottom, with eight bars on the first layer and two bars as the second layer, to meet 5” spacing limit. Eight #11 bars were used as top main bars.
+• The cap size is controlled by shear & torsion. 4-legs of #6 Stirrups were used to meet the 5” stirrup spacing limit, GDOT 4.4.1.2.4.
 Bent Columns
-•	Column size = 36’ x 36’
-•	The column spacing is set to 23.75’ to balance the flexural forces on two sides of each column.
+• Column size = 36’ x 36’
+• The column spacing is set to 23.75’ to balance the flexural forces on two sides of each column.
 Bent Footings
-•	Footing size = 10.5’ x 10.5’
-•	Footing depth = 45”
-•	Layout of the five HP piles were set based on GDOT Appendix 4B and Footing Geometry spreadsheet. Service strength was increased and set to 405kips for Bent 2 piles in RCPIER. Strength capacity is sufficient for piles.
+• Footing size = 10.5’ x 10.5’
+• Footing depth = 45”
+• Layout of the five HP piles were set based on GDOT Appendix 4B and Footing Geometry spreadsheet. Service strength was increased and set to 405kips for Bent 2 piles in RCPIER. Strength capacity is sufficient for piles.
 
