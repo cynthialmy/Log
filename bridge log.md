@@ -1,3 +1,21 @@
+ynthia Li has 1 year of bridge design experience involving Perform preliminary engineering design and reviews the design and drafting work of drafters. Prepare quantity estimates. Prepare the preparation of final plans and reports. Review shop drawings. Coordinates work with other engineers and professionals within and outside own discipline.
+
+Ms. Li’s Atkins project experience includes:
+
+SR 29 over Pughes Creek Construction Design Services, Laurens County, GA, Structural designer for project. The proposed structure is a 126 ft long, 3 span prestressed concrete multi-beam bridge. Duration: 04/2019-03/2020 (anticipated)
+
+SR 29 over Sugar Creek Construction Design Services, Dodge County, GA, Structural designer for project. The proposed structure is a 126 ft long, 3 span prestressed concrete multi-beam bridge. Duration: 04/2019-03/2020 (anticipated)
+
+I-20 over SR 138 MSE Walls, Rockdale County, GA Structural reviewer for the review of Shop Drawings and designs of Strain Poles, Mast Arms, and Pole Foundations.  The reviews are performed using NCDOT design spreadsheets. Duration: 07/2018-01/2019 (anticipated)
+
+Powers Island Bridge Inspection Cobb County, GA. Structural designer for CS 2228 (Buena Vista Road) over I-185, a diverging-diamond interchange. The proposed structure is a 238-foot-long two-span prestressed concrete multi-beam bridge. This bridge is to be constructed in two stages alongside the existing bridge. Duration: 06/2018-05/2019 (anticipated)
+
+SR 316 at US 29, Gwinnet County, GA  Structural designer for two bridges related to the West Deck Expansion:  Widening of NB RCC Parkway over Loop Ramp, and new West Deck Connector over Loop Ramp. The project was designed to Georgia Department of Transportation and Development standards, with project-specific modifications developed by Atkins for the client. Duration: 03/2017-12/2019 (anticipated)
+
+SR 253 at Spring Creek Bridge Replacement, Georgia Dept. of Transportation, Decatur County, GA. Structural reviewer for the replacement of SR 253 over Spring Creek. The proposed structure is a 270-foot long 3-span prestressed concrete multi-beam bridge. This bridge was constructed in two stages around the existing bridge. Due to variable in foundation conditions and the depth of water at the crossing, the piers are founded on drilled shafts (Bent 2) and perched footings on Metal-shelled piles (Bent 3). Duration: 01/2017-09/2017
+
+Purple Line Transit Rail, Maryland Dept. of Transportation and Maryland Transit Administration, Montgomery and Prince George’s County, MD. Structural designer of retaining wall for the design of a propose 16-mile light-rail transit project in the Maryland suburbs of Washington, D.C. Developed wall designs in addition to managing CAD personnel and utility plan preparation. Duration: 09/2017-05/2018
+
 ------------------------------------------------------------------------------
 Walls: I-20 at SR 138/SR 20 Interc778	100055778 /04.0005.L
 ------------------------------------------------------------------------------
