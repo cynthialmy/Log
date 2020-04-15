@@ -1,8 +1,10 @@
-ynthia Li has 1 year of bridge design experience involving Perform preliminary engineering design and reviews the design and drafting work of drafters. Prepare quantity estimates. Prepare the preparation of final plans and reports. Review shop drawings. Coordinates work with other engineers and professionals within and outside own discipline.
+------------------------------------------------------------------------------
+Cynthia Li has 1 year of bridge design experience involving Perform preliminary engineering design and reviews the design and drafting work of drafters. Prepare quantity estimates. Prepare the preparation of final plans and reports. Review shop drawings. Coordinates work with other engineers and professionals within and outside own discipline.
+------------------------------------------------------------------------------
 
-Ms. Li’s Atkins project experience includes:
+# Ms. Li’s Atkins project experience includes:
 
-SR 29 over Pughes Creek Construction Design Services, Laurens County, GA, Structural designer for project. The proposed structure is a 126 ft long, 3 span prestressed concrete multi-beam bridge. Duration: 04/2019-03/2020 (anticipated)
+*SR 29 over Pughes Creek* Construction Design Services, Laurens County, GA, Structural designer for project. The proposed structure is a 126 ft long, 3 span prestressed concrete multi-beam bridge. Duration: 04/2019-03/2020 (anticipated)
 
 SR 29 over Sugar Creek Construction Design Services, Dodge County, GA, Structural designer for project. The proposed structure is a 126 ft long, 3 span prestressed concrete multi-beam bridge. Duration: 04/2019-03/2020 (anticipated)
 
