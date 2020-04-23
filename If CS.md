@@ -1,0 +1,1 @@
+Programming is becoming as ubiquitous a skill in the workforce as math. 7 years olds are learning to program. You'll find that qualifying as a computer scientist or software engineer can land you a lucrative job in software, but you'll also find that if you have programming skills you have a competitive edge in other positions, too.
